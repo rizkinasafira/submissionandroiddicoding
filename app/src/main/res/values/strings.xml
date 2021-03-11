@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">androsubmission</string>
+    <string name="name_fruit_detail">Nama Lain</string>
+    <string name="content_main">Fruit</string>
+    <string name="content_anggota">Value rank</string>
+    <string name="detail">detail</string>
+    <string name="Fruits_klasifikasi">Identity</string>
+    <string name="Fruits_detail">Detailew</string>
+    <string name="content_detail">content detail</string>
+    <string name="content_klasifikasi">content klasifikasi</string>
+    <string name="title_klasifikasi">Warna \nRasa \nJenis</string>
+    <string name="name_me">Rizkina Maulida Safira</string>
+    <string name="email_me">a2142082@bangkit.academy</string>
+    <string name="Fruit_detail" />
+    <string name="Fruit_klasifikasi" />
+    <string name="profile">profile</string>
+</resources>
